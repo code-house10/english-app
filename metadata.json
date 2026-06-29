@@ -1,0 +1,6 @@
+{
+  "name": "AI English Coach",
+  "description": "An AI-powered English conversation partner with personalized coach personas, grammatical corrections, and a dynamic vocabulary tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
